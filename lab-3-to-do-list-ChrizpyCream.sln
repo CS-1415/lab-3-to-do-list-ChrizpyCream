@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab-3-to-do-list-ChrizpyCream", "lab-3-to-do-list-ChrizpyCream.csproj", "{51AFE403-9E85-0C0B-4935-C006A708CB9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51AFE403-9E85-0C0B-4935-C006A708CB9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51AFE403-9E85-0C0B-4935-C006A708CB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51AFE403-9E85-0C0B-4935-C006A708CB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51AFE403-9E85-0C0B-4935-C006A708CB9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03227E9F-BBF0-423B-B996-28C2E2E48A7D}
+	EndGlobalSection
+EndGlobal
