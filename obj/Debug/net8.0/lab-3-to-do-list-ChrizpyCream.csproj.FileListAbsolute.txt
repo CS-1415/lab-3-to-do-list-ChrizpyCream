@@ -1,0 +1,15 @@
+C:\Users\xxlaz\cs1410\lab-3-to-do-list-ChrizpyCream\bin\Debug\net8.0\lab-3-to-do-list-ChrizpyCream.exe
+C:\Users\xxlaz\cs1410\lab-3-to-do-list-ChrizpyCream\bin\Debug\net8.0\lab-3-to-do-list-ChrizpyCream.deps.json
+C:\Users\xxlaz\cs1410\lab-3-to-do-list-ChrizpyCream\bin\Debug\net8.0\lab-3-to-do-list-ChrizpyCream.runtimeconfig.json
+C:\Users\xxlaz\cs1410\lab-3-to-do-list-ChrizpyCream\bin\Debug\net8.0\lab-3-to-do-list-ChrizpyCream.dll
+C:\Users\xxlaz\cs1410\lab-3-to-do-list-ChrizpyCream\bin\Debug\net8.0\lab-3-to-do-list-ChrizpyCream.pdb
+C:\Users\xxlaz\cs1410\lab-3-to-do-list-ChrizpyCream\obj\Debug\net8.0\lab-3-to-do-list-ChrizpyCream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxlaz\cs1410\lab-3-to-do-list-ChrizpyCream\obj\Debug\net8.0\lab-3-to-do-list-ChrizpyCream.AssemblyInfoInputs.cache
+C:\Users\xxlaz\cs1410\lab-3-to-do-list-ChrizpyCream\obj\Debug\net8.0\lab-3-to-do-list-ChrizpyCream.AssemblyInfo.cs
+C:\Users\xxlaz\cs1410\lab-3-to-do-list-ChrizpyCream\obj\Debug\net8.0\lab-3-to-do-list-ChrizpyCream.csproj.CoreCompileInputs.cache
+C:\Users\xxlaz\cs1410\lab-3-to-do-list-ChrizpyCream\obj\Debug\net8.0\lab-3-to-do-list-ChrizpyCream.sourcelink.json
+C:\Users\xxlaz\cs1410\lab-3-to-do-list-ChrizpyCream\obj\Debug\net8.0\lab-3-to-do-list-ChrizpyCream.dll
+C:\Users\xxlaz\cs1410\lab-3-to-do-list-ChrizpyCream\obj\Debug\net8.0\refint\lab-3-to-do-list-ChrizpyCream.dll
+C:\Users\xxlaz\cs1410\lab-3-to-do-list-ChrizpyCream\obj\Debug\net8.0\lab-3-to-do-list-ChrizpyCream.pdb
+C:\Users\xxlaz\cs1410\lab-3-to-do-list-ChrizpyCream\obj\Debug\net8.0\lab-3-to-do-list-ChrizpyCream.genruntimeconfig.cache
+C:\Users\xxlaz\cs1410\lab-3-to-do-list-ChrizpyCream\obj\Debug\net8.0\ref\lab-3-to-do-list-ChrizpyCream.dll
